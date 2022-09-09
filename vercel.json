@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://kingstrong-1afjq1074-kingstrongers.vercel.app/:match*"
+      "destination": "https://kingstrong-kingstrongers.vercel.app/:match*"
     }
   ]
 }

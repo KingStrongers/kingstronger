@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://netease-cloud-music-api-flax-nu.vercel.app/:match*"
+      "destination": "https://kingstrong-1afjq1074-kingstrongers.vercel.app/:match*"
     }
   ]
 }
